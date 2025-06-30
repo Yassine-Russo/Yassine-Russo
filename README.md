@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassine-russo" alt="yassine-russo" /></a> </p>
 
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Html, Css & Js**
 
